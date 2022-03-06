@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='hamcabrillo',
-    version='0.0-a',
+    version='0.0-c',
     packages=['hamcabrillo'],
     url='',
     license='',
